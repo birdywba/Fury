@@ -1,2 +1,2 @@
 # Fury
-Easy to use with everything you need for sports,fims etc
+Easy to use with everything you need for sports,fims etc. Looks great too
